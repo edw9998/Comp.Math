@@ -1,1 +1,1 @@
-<h1><center>Computational Mathematics</center></h1>
+<h1><center>Comp. Math</center></h1>
