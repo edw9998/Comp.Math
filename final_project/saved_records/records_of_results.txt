@@ -1,0 +1,18 @@
+FDA Method
+Function -> F(X) = exp(X)
+Derived Function -> F`(X) = exp(X)
+X - Value = 1.5
+Delta-X Value = 1.0
+Exact Result = 4.48169
+Approx. Result = 7.7008
+Abs. Relative True Error(%) = 71.82818 %
+======================================================================================
+FDA Method
+Function -> F(X) = ln(X)
+Derived Function -> F`(X) = 1 / X
+X - Value = 2.5
+Delta-X Value = 1.0
+Exact Result = 0.4
+Approx. Result = 0.33647
+Abs. Relative True Error(%) = 15.88194 %
+======================================================================================
