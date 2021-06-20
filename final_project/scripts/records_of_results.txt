@@ -1,0 +1,28 @@
+FDA Method
+An Irrelevant Result !
+Function -> F(X) = exp(X)
+Derived Function -> F`(X) = exp(X)
+X - Value = 2.71
+Delta-X Value = 1.0
+Exact Result = 15.02928
+Approx. Result = 25.82453
+Abs. Relative True Error(%) = 71.82818 %
+======================================================================================
+BDA Method
+Function -> F(X) = exp(X)
+Derived Function -> F`(X) = exp(X)
+X-Value = 2.71
+Delta-X Value = 1.0
+Exact Result = 15.02928
+Approx. Result = 9.50031
+Abs. Relative True Error(%) = 36.78794 %
+======================================================================================
+CDDA Method
+Function -> F(X) = exp(X)
+Derived Function -> F`(X) = exp(X)
+X-Value = 2.71
+Delta-X Value = 1.0
+Exact Result = 15.02928
+Approx. Result = 17.66242
+Abs. Relative True Error(%) = 17.52012 %
+======================================================================================
